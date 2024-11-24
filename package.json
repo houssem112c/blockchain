@@ -1,0 +1,16 @@
+{
+    "name": "encryption-system",
+    "version": "1.0.0",
+    "description": "Encryption and Decryption System with MongoDB Storage",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+      "start": "node main.js"
+    },
+    "dependencies": {
+      "crypto": "^1.0.1",
+      "dotenv": "^16.0.3",
+      "mongoose": "^7.5.0"
+    }
+  }
+  
